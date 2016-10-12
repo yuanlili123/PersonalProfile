@@ -1,0 +1,70 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,logo_png,mbg1_jpg,mbg22_jpg,choice_png,torinouta_mp3,r_png,a_png,rrr_png,abc_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "logo_png",
+			"type": "image",
+			"url": "assets/logo.png"
+		},
+		{
+			"name": "mbg1_jpg",
+			"type": "image",
+			"url": "assets/mbg1.jpg"
+		},
+		{
+			"name": "mbg22_jpg",
+			"type": "image",
+			"url": "assets/mbg22.jpg"
+		},
+		{
+			"name": "choice_png",
+			"type": "image",
+			"url": "assets/choice.png"
+		},
+		{
+			"name": "torinouta_mp3",
+			"type": "sound",
+			"url": "assets/torinouta.mp3"
+		},
+		{
+			"name": "r_png",
+			"type": "image",
+			"url": "assets/r.png"
+		},
+		{
+			"name": "a_png",
+			"type": "image",
+			"url": "assets/a.png"
+		},
+		{
+			"name": "rrr_png",
+			"type": "image",
+			"url": "assets/rrr.png"
+		},
+		{
+			"name": "abc_png",
+			"type": "image",
+			"url": "assets/abc.png"
+		}
+	]
+}
